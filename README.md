@@ -1,3 +1,3 @@
 # C++ Evaluator
 
-C++ Evaluator for https://github.com/nr0728/local-judge
+C++ Evaluator for https://github.com/CuteMurasame/local-judge
